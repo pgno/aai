@@ -126,13 +126,13 @@ L'Agence proposera aussi à tout personne de réaliser des prestations dites de 
 - le respect de la gouvernance du commun sur lequel il fonde sa prestation
 - le partage du montant de la prestation en deux moitié égale entre lui et l'Agence (Deux factures seront émises, l'une par le prestataire, l'autre par Mr Northover)
 
-## Communs (soutenus par l'Agence)
+## C. Communs (soutenus par l'Agence)
 
 ### Module pédagogique sur les communs
 ### Mobilier pédagogique et numérique
 ### Le cahier d'activité des Tiers-lieux
 
-## Membres 
+## D. Membres 
 
 On propose aux membres de choisir un pseudonyme sous lequel ils exerceront leur activité de contributeur. Le pseudonyme Mr Nothover est notamment institué pour le membre assurant la gouvernance de l'entreprise.
 
@@ -140,5 +140,5 @@ A ce jour, les membres sont :
 - Mr Northover / Pierre Trendel
 - ...
 
-## Contact
+## E. Contact
 
