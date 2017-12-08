@@ -15,8 +15,8 @@ L'entreprise au sens actuel du terme définit son action par :
 *Wikipedia - Entreprise*
 
 L'Agence se différencie de cette acception de l'entreprise par :
-- Elle ne consomme pas de ressource mais en produit et préserve sa production (voir 3.Biens Communs)
-- Elle ne coordonne pas les fonctions mais lui donne un cadre d'action compatible à la fois avec ses objectifs et le cadre juridique actuel (voir 2.Contribution et B.Fonctionnement)
+- Elle ne consomme pas de ressources mais en produit et préserve sa production (voir 3.Biens Communs)
+- Elle ne coordonne pas les fonctions mais lui donne un cadre à une action autonome et compatible à la fois avec ses objectifs et le cadre juridique actuel (voir 2.Contribution et B.Fonctionnement)
 
 ### 2. Contribution
 
@@ -25,7 +25,7 @@ L'Agence de l'Aventure et de l'Inattendu est basée sur un principe contributif 
 ### 3. Biens Communs (ou communs)
 
 L'Agence de l'Aventure et de l'inattendu oeuvre à la production, au développement et à la préservation de biens communs.
-Un bien commun est une ressource gérée par la communauté des personnes y ayant accès et qui définit elle-même les règles qui gouverne l'usage, le développement et la préservation de cette ressource.
+Un bien commun est une ressource gérée par la communauté des personnes y ayant accès et qui définit elle-même les règles qui gouvernent l'usage, le développement et la préservation de cette ressource.
 Un bien n'est pas commun par essence, c'est la forme de gouvernance qui y est attachée qui crée le commun.
 La ressource autour de laquelle se crée le commun peut-être de toute nature :
 - Naturelle (eau, air, semence, zone écologique...)
@@ -37,7 +37,7 @@ La ressource autour de laquelle se crée le commun peut-être de toute nature :
 
 ### 1. Statut
 
-L'Agence n'a aucun statut propre. Il n'est représenté par aucune personne morale. Son fonctionnement s'appuie sur un collectif d'individus affiliés à un régime qui leur est propre. Il peut s'agir du régime salarié par le biais d'une Coopérative d'Activité et d'Emploi ou par tout autre statut proposé par le membre et compatible avec l'organisation de l'Agence. Les membres s'engagent néanmoins à respecter les règles qu'ils décident et revoient collectivement à intervalle régulier (Voir 3.Gouvernance).
+L'Agence n'a aucun statut propre. Elle n'est représentée par aucune personne morale. Son fonctionnement s'appuie sur un collectif d'individus affiliés à un régime qui leur est propre. Il peut s'agir du régime salarié par le biais d'une Coopérative d'Activité et d'Emploi ou par tout autre statut proposé par le membre et compatible avec l'organisation de l'Agence. Les membres s'engagent néanmoins à respecter les règles qu'ils décident et revoient collectivement à intervalles réguliers (Voir 3.Gouvernance).
 
 ### 2. Acteurs
 
@@ -49,16 +49,15 @@ Les contributeurs sont les membres actifs de l'Agence. Il travaillent à la cré
 
 **Rétribution des contributeurs**
 
-Ils recoivent une rétribution mensuelle dont le montant est décidé entre eux et calculé à partir de la trésorerie disponible. Cette rétribution sera versée prioritairement sous forme de salaire par un contrat à durée déterminé émis par une CAE afin d'assurer au mieux la protection sociale des contributeur rétribué ou sous une autre forme compatible avec le fonctionnement économique de l'Agence.
-La forme spécifique du contrat de travail induit une subordination. Cette subordination sera limité à un minimum d'heures pour être compatible avec la législation du travail, mais laisse la liberté entière de l'individu sur la forme de sa contribution aux communs soutenus par l'Agence.
-L'esprit de cette rétribution est à entendre comme un "revenu de base" garantissant au contributeur un revenu minimal lui permettant de contribuer sereinement.
-Il ne s'agit en aucun cas du revenu d'une prestation lié au communs de l'Agence (voir 5. Financement/ii. Prestations).
+Ils recoivent une rétribution mensuelle dont le montant est décidé entre eux et calculé à partir de la trésorerie disponible. Cette rétribution sera versée prioritairement sous forme de salaire par un contrat à durée déterminé émis par une CAE afin d'assurer au mieux la protection sociale des contributeurs rétribués ou sous une autre forme compatible avec le fonctionnement économique de l'Agence.
+La forme spécifique du contrat de travail induit une subordination. Cette subordination sera limité à un minimum d'heures pour être compatible avec la législation du travail, mais laisse la liberté entière de l'individu sur la forme de sa contribution aux communs soutenus par l'Agence. Il est aussi possible, selon la forme prise par la contribution d'être rétribué par droit d'auteur, statut plus restreint mais mieux adapté car il n'impose pas de subordination au contributeur dans sa production.
+Dans tous les cas de figures, l'esprit de cette rétribution est à entendre comme un "revenu de base" garantissant au contributeur un revenu minimal lui permettant de contribuer sereinement.
+Il ne s'agit en aucun cas du revenu d'une prestation liée au communs de l'Agence (voir 5. Financement/ii. Prestations).
 
 #### ii. Mr Northover
 
-Mr Northover est le gérant de l'Agence. C'est un pseudonyme attribué à un des membres désigné comme tel par l'ensemble des membres par une processus d'élection sans candidat : 
-- Les membres décrivent les qualités nécessaires à la fonction
-- La durée de son mandat
+Mr Northover est le représentant de l'Agence. C'est un pseudonyme attribué à un des membres désigné comme tel par l'ensemble des membres par une processus d'élection sans candidat : 
+- Les membres décrivent les qualités nécessaires à la fonction et la durée de son mandat
 - Chaque membre désigne selon lui la personne la plus qualifiée parmi les membres pour exercer cette fonction
 
 Mr Northover :
@@ -71,13 +70,13 @@ Mr Northover :
 
 Les soutiens sont les personnes qui choisiront :
 - d'aider aux missions de l'Agence de manière libre sans rétribution
-- d'effectuer des prestations commerciales liées aux communs de l'Agence en cédant une partie de sa rémunération
+- d'effectuer des prestations commerciales liées aux communs de l'Agence en cédant tout ou partie de sa rémunération
 - d'effectuer un don régulier ou ponctuel à l'Agence via des crowdfunding récurrents
 
 ### 3. Gouvernance
 
 La gouvernance se découpe en 2 parties distinctes : 
-- Le rapport entre Mr Northover et les contributeurs percevant une rétribution 
+- Le lien entre Mr Northover et les contributeurs percevant une rétribution 
 - La gouvernance liée au travail fourni autour des communs
 
 #### i. Dans le cadre de la rétribution
@@ -85,7 +84,7 @@ La gouvernance se découpe en 2 parties distinctes :
 Pour entrer dans un cadre juridique existant, la rétribution se fera par le biais d'un contrat (de travail, de prestation, d'auteur...). Cette forme de rétribution induit une relation de subordination ou de commande qui sera limité au minium et à des temps de gouvernance de la commununauté des membres rétribués : suivi du financement, révision de la gouvernance, etc.
 Dans ce cadre, les décisions sont prises par :
 - consentement tant que cela est possible
-- par Mr Northover dans tous autre cas
+- par Mr Northover dans tout autre cas
 
 #### ii. Dans le cadre du travail sur les communs
 
@@ -113,11 +112,11 @@ Le financement de l'entreprise est lié à deux sources de revenus, le don et la
 
 #### i. Dons
 
-Des campagnes de crowfunding régulière seront mises en oeuvre par les membres pour collecter les dons visant à soutenir l'action globale de l'Agence ou plus particulièrement d'un de ces projets.
+Des campagnes de crowfunding régulières seront mises en oeuvre par les membres pour collecter les dons visant à soutenir l'action globale de l'Agence, ou plus particulièrement, un de ces projets.
 
 #### ii. Prestations
 
-L'Agence se proposera, de manière non exclusive à l'égard de tout autre acteur, comme prestataire pour toutes actions liés aux communs qu'elle soutient. On notera à cet égard que toutes les ressources produites par l'Agence seront placées sous licence libre. Elles ne sont donc pas la propriété de l'Agence et sont donc exploitables par toute autre personnes physiques ou morales.
+L'Agence se proposera, de manière non exclusive à l'égard de tout autre acteur, comme prestataire pour toutes actions liés aux communs qu'elle soutient. On notera à cet égard que toutes les ressources produites par l'Agence seront placées sous licence libre autorisant l'exploitation commerciale. Elles ne sont donc pas la propriété de l'Agence et sont donc exploitables par toute autre personne physique ou morale.
 
 Les prestations pourront recouvrir par exemple : 
 - Des actions de formation sur les communs en général
@@ -125,15 +124,13 @@ Les prestations pourront recouvrir par exemple :
 - Des prestations de déploiement ou d'exploitation des communs dans le respect de la gouvernance des communs
 - Des prestations visant à dériver le commun pour un usage privé dans le respect de la gouvernance des communs
 
-L'Agence proposera aussi à tout personne de réaliser des prestations dites de soutien. La prestation de soutien est réalisé par un tiers qui accepte : 
+L'Agence proposera aussi à toute personne de réaliser des prestations dites de soutien. La prestation de soutien est réalisé par un tiers qui accepte : 
 - le respect de la gouvernance du commun sur lequel il fonde sa prestation
-- le partage du montant de la prestation en deux moitié égale entre lui et l'Agence (Deux factures seront émises, l'une par le prestataire, l'autre par Mr Northover)
+- le partage du montant de la prestation entre lui et l'Agence (Deux factures seront émises, l'une par le prestataire, l'autre par Mr Northover)
 
 ## C. Communs (soutenus par l'Agence)
 
-### Module pédagogique sur les communs
-### Mobilier pédagogique et numérique
-### Le cahier d'activité des Tiers-lieux
+Module pédagogique sur les communs, Mobilier pédagogique et numérique, Cahier d'activité des Tiers-lieux....
 
 ## D. Membres 
 
