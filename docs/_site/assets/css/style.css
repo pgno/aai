@@ -217,7 +217,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 body { font-family: "Open Sans", sans-serif; background: url(../images/background.png) no-repeat 45% 250px; padding: 30px; }
 
-body.page { background: url(../images/background_page.png) no-repeat 33% 280px; }
+body.page { background: url(../images/background_page.png) no-repeat 33% 280px; background-attachment: fixed; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Abel", sans-serif; font-weight: 300; }
 
@@ -236,9 +236,9 @@ h1, h2, h3, h4, h5, h6 { font-family: "Abel", sans-serif; font-weight: 300; }
 .page .wrapper .nav { margin-top: 1.1rem; min-height: 6	rem; }
 .page .wrapper .nav li a.current { font-weight: 300; opacity: 1; line-height: 3rem; }
 .page .wrapper .nav li a.current:before { background: url(../images/cross_small.png) no-repeat center center; opacity: 0.5; top: 0rem; }
-.page .wrapper section { width: 100%; float: right; padding-bottom: 50px; }
+.page .wrapper section { width: 100%; float: right; padding-bottom: 50px; position: relative; }
 .page .wrapper section h2 + p { opacity: 0.2rem; }
-.page .wrapper aside { float: left; width: 30%; padding-left: 170px; font-size: 2rem; font-family: "Abel", sans-serif; text-transform: uppercase; color: black; line-height: 2rem; margin-top: 5.5rem; }
+.page .wrapper aside { position: fixed; float: left; width: 16%; padding-left: 170px; font-size: 2rem; font-family: "Abel", sans-serif; text-transform: uppercase; color: black; line-height: 2rem; margin-top: 5.5rem; }
 .page .wrapper .content { float: right; width: 50%; margin-top: 1rem; }
 
 .plus img { transition: transform .3s; }
