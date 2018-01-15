@@ -1,0 +1,17 @@
+docs_list_title: Navigation
+docs:
+
+- title: Projet
+  url: /project.html
+
+- title: Fonctionnement
+  url: /fonctionnement.html
+
+- title: Communs
+  url: /communs.html
+
+- title: Soutiens
+  url: /soutiens.html
+
+- title: Contact
+  url: /contact.html

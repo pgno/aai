@@ -1,6 +1,3 @@
----
-layout: home
----
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -15,22 +12,25 @@ layout: home
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body class="page">
     <div class="wrapper">
-      <div class="plus">
-          <div class="sentence">
-            {{content}}
-          </div>
-          <img src="/assets/images/plus.png">
-        </div>
+      
       <div class="splash">
         
         <div class="logo">
-          <img src="/assets/images/logo.svg">    
+          <a href="/"><img src="/assets/images/logo.svg">    </a>
         </div>
         
       </div>
+
       {% include navigation.html %}
+      
+      <section class="main-content">
+        <aside>{{page.title}}</aside>
+        <div class="content">
+          {{ content }}
+        </div>
+      </section>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
