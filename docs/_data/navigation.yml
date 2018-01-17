@@ -2,16 +2,16 @@ docs_list_title: Navigation
 docs:
 
 - title: Projet
-  url: /project.html
+  url: /aai/project.html
 
 - title: Fonctionnement
-  url: /fonctionnement.html
+  url: /aai/fonctionnement.html
 
 - title: Communs
-  url: /communs.html
+  url: /aai/communs.html
 
 - title: Soutiens
-  url: /soutiens.html
+  url: /aai/soutiens.html
 
 - title: Contact
-  url: /contact.html
+  url: /aai/contact.html
